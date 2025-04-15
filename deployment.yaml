@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nodejsapp
-        image: vaishnavai/node_app:v2  
+        image: vaishnavai/nodelabtest:v2 
         ports:
         - containerPort: 3000
